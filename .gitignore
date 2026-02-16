@@ -45,3 +45,7 @@ __pycache__/
 
 # IDE
 .vscode
+# aws cli extracted files
+CKA/aws/
+aws/
+dist/
